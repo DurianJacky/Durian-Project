@@ -13,6 +13,9 @@ Currently, there are 4 Arduino Uno used in the on-water test:
 - 1 for PWM control
 - 2 for RS485 control
 
+\
+The hardware configuration will now be used in the test to determine some parameters. \
+The configuration may be changed into only one Cube Orange+ in future work.
 
 \
 
